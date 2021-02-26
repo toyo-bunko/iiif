@@ -7910,4 +7910,9 @@
         "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu04/jpeg/0001.tif/full/81,/0/default.jpg",
         "service": {
             "@context": "http://iiif.io/api/image/2/context.json",
-            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu04/jpeg/0001.tif"
+            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu04/jpeg/0001.tif",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+    },
+    "viewingDirection": "left-to-right"
+}
