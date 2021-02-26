@@ -1,0 +1,105 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://toyo-bunko.github.io/iiif/collection/ajiataikan.json",
+    "@type": "sc:Collection",
+    "label": "『亜細亜大観』",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第1冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第2冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan03/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第3冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan04/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第4冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan05/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第5冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan06/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第6冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan07/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第7冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan08/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第8冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan09/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第9冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第10冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第11冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第12冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan13/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第13冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan14/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第14冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan15/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第15冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/ajiataikan16/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』 第16冊"
+        }
+    ],
+    "vhint": "use-thumb"
+}
