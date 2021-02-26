@@ -1,0 +1,81 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://toyo-bunko.github.io/iiif/collection/atoinga.json",
+    "@type": "sc:Collection",
+    "label": "亜東印画輯",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第1冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第2冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu03/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第3冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu04/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第4冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu05/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第5冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu06/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第6冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu07/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第7冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu08/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第8冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu09/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第9冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第10冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第11冊"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第12冊"
+        }
+    ],
+    "vhint": "use-thumb"
+}

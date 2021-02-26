@@ -1,0 +1,13 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://toyo-bunko.github.io/iiif/collection/top.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/collection/atoinga.json",
+            "@type": "sc:Collection",
+            "label": "亜東印画輯"
+        }
+    ],
+    "label": "東洋文庫IIIFコレクション"
+}
