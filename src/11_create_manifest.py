@@ -10,8 +10,17 @@ from PIL import Image
 import yaml
 import requests
 
+import argparse    # 1. argparseをインポート
+
+parser = argparse.ArgumentParser(description='このプログラムの説明（なくてもよい）')    # 2. パーサを作る
+
+# 3. parser.add_argumentで受け取る引数を追加していく
+parser.add_argument('path')
+
+args = parser.parse_args()    # 4. 引数を解析
+
 prefix = "https://toyo-bunko.github.io/iiif"
-path = "data/atoinga.xlsx"
+path = args.path
 odir = "../docs"
 
 '''

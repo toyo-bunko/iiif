@@ -4,6 +4,11 @@
     "@type": "sc:Collection",
     "collections": [
         {
+            "@id": "https://toyo-bunko.github.io/iiif/collection/ajiataikan.json",
+            "@type": "sc:Collection",
+            "label": "『亜細亜大観』"
+        },
+        {
             "@id": "https://toyo-bunko.github.io/iiif/collection/atoinga.json",
             "@type": "sc:Collection",
             "label": "亜東印画輯"
