@@ -1,0 +1,3156 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "description": "『亜東印画輯』（請求記号：日本語雑誌XI-1）は、大連に拠点を置いた亜東印画協会が1924年から1944年頃まで会員向けに月刊（10枚12セット）で発行していた写真帳。各頁には、生写真と短い解説文が添付されている。 　写真は中国・朝鮮半島・モンゴル地域などにおいて日本人撮影者が当地の風俗や民情、自然風景、歴史的建造物などを撮影したものであり、当時の様子を伝える貴重な資料である。",
+    "label": "亜東印画輯 第12冊",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "sequences": [
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p1",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0001.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0001.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0001.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0001.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p2",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0002.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0002.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0002.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0002.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p3",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0003.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0003.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0003.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0003.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p4",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0004.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0004.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0004.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0004.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p5",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0005.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0005.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0005.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0005.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p6-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p6",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0006.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0006.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0006.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0006.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p7-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p7",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0007.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0007.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0007.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0007.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p8-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p8",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0008.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0008.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0008.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0008.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p9-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p9",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0009.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0009.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0009.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0009.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p10-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p10",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0010.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0010.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0010.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0010.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p11-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p11",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0011.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0011.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0011.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0011.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p12-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p12",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0012.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0012.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0012.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0012.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p13-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p13",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0013.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0013.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[13]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0013.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0013.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p14-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p14",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0014.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0014.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[14]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0014.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0014.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p15-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p15",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0015.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0015.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[15]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0015.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0015.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p16-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p16",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0016.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0016.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[16]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0016.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0016.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p17-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p17",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0017.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0017.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[17]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0017.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0017.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p18-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p18",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0018.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0018.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[18]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0018.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0018.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p19-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p19",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0019.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0019.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[19]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0019.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0019.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p20-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p20",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0020.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0020.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[20]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0020.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0020.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p21",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p21-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p21",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0021.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0021.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[21]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0021.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0021.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p22",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p22-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p22",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0022.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0022.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[22]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0022.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0022.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p23",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p23-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p23",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0023.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0023.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[23]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0023.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0023.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p24",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p24-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p24",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0024.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0024.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[24]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0024.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0024.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p25",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p25-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p25",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0025.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0025.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[25]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0025.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0025.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p26",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p26-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p26",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0026.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0026.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[26]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0026.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0026.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p27",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p27-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p27",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0027.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0027.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[27]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0027.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0027.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p28",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p28-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p28",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0028.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0028.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[28]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0028.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0028.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p29",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p29-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p29",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0029.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0029.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[29]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0029.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0029.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p30",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p30-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p30",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0030.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0030.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[30]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0030.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0030.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p31",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p31-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p31",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0031.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0031.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[31]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0031.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0031.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p32",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p32-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p32",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0032.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0032.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[32]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0032.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0032.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p33",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p33-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p33",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0033.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0033.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[33]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0033.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0033.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p34",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p34-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p34",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0034.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0034.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[34]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0034.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0034.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p35",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p35-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p35",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0035.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0035.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[35]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0035.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0035.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p36",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p36-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p36",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0036.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0036.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[36]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0036.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0036.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p37",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p37-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p37",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0037.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0037.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[37]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0037.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0037.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p38",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p38-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p38",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0038.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0038.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[38]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0038.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0038.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p39",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p39-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p39",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0039.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0039.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[39]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0039.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0039.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p40",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p40-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p40",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0040.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0040.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[40]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0040.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0040.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p41",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p41-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p41",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0041.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0041.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[41]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0041.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0041.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p42",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p42-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p42",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0042.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0042.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[42]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0042.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0042.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p43",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p43-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p43",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0043.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0043.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[43]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0043.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0043.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p44",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p44-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p44",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0044.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0044.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[44]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0044.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0044.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p45",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p45-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p45",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0045.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0045.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[45]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0045.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0045.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p46",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p46-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p46",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0046.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0046.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[46]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0046.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0046.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p47",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p47-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p47",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0047.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0047.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[47]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0047.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0047.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p48",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p48-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p48",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0048.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0048.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[48]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0048.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0048.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p49",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p49-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p49",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0049.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0049.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[49]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0049.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0049.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p50",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p50-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p50",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0050.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0050.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[50]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0050.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0050.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p51",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p51-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p51",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0051.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0051.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[51]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0051.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0051.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p52",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p52-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p52",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0052.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0052.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[52]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0052.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0052.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p53",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p53-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p53",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0053.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0053.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[53]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0053.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0053.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p54",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p54-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p54",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0054.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0054.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[54]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0054.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0054.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p55",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p55-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p55",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0055.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0055.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[55]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0055.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0055.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p56",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p56-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p56",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0056.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0056.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[56]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0056.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0056.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p57",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p57-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p57",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0057.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0057.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[57]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0057.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0057.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p58",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p58-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p58",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0058.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0058.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[58]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0058.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0058.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p59",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p59-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p59",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0059.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0059.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[59]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0059.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0059.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p60",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p60-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p60",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0060.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0060.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[60]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0060.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0060.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p61",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p61-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p61",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0061.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0061.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[61]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0061.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0061.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p62",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p62-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p62",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0062.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0062.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[62]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0062.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0062.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p63",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p63-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p63",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0063.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0063.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[63]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0063.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0063.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p64",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p64-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p64",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0064.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0064.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[64]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0064.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0064.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p65",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p65-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p65",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0065.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0065.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[65]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0065.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0065.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p66",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p66-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p66",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0066.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0066.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[66]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0066.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0066.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p67",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p67-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p67",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0067.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0067.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[67]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0067.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0067.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p68",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p68-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p68",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0068.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0068.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[68]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0068.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0068.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p69",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p69-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p69",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0069.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0069.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[69]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0069.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0069.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p70",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p70-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p70",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0070.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0070.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[70]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0070.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0070.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p71",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p71-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p71",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0071.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0071.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[71]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0071.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0071.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p72",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p72-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p72",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0072.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0072.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[72]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0072.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0072.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p73",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p73-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p73",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0073.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0073.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[73]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0073.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0073.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                },
+                {
+                    "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p74",
+                    "@type": "sc:Canvas",
+                    "height": 1728,
+                    "images": [
+                        {
+                            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/annotation/p74-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p74",
+                            "resource": {
+                                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0074.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0074.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2592
+                            }
+                        }
+                    ],
+                    "label": "[74]",
+                    "thumbnail": {
+                        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0074.tif/full/81,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0074.tif",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "width": 2592
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "structures": [
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r2",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p2"
+            ],
+            "label": "◆目録[タイトル一覧]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r3",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p3"
+            ],
+            "label": "◆目次（第198回　福州情景――福建省――）"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r5",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p5"
+            ],
+            "label": "漁村曙　[第198回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r6",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p6"
+            ],
+            "label": "碼頭の朝　（福州）　[第198回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r7",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p7"
+            ],
+            "label": "西湖の古亭　（福州）　[第198回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r8",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p8"
+            ],
+            "label": "九仙観　（福州）　[第198回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r9",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p9"
+            ],
+            "label": "鼓山の山門　（福州郊外）　[第198回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r10",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p10"
+            ],
+            "label": "轎子にゆられて　（福州）　[第198回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r11",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p11"
+            ],
+            "label": "女労働者　（福州）　[第198回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r12",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p12"
+            ],
+            "label": "郵便船　（福州）　[第198回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r13",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p13"
+            ],
+            "label": "やぐら艪　（福州郊外）　[第198回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r14",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p14"
+            ],
+            "label": "茶館の昼　（福州）　[第198回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r15",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p15"
+            ],
+            "label": "◆目次（第199回　閩江情景――福建省――）"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r17",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p17"
+            ],
+            "label": "延平附近　（閩江）　[第199回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r18",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p18"
+            ],
+            "label": "民船の船着場　（閩江）　[第199回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r19",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p19"
+            ],
+            "label": "曳き船　（閩江）　[第199回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r20",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p20"
+            ],
+            "label": "猫雀船　（閩江）　[第199回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r21",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p21"
+            ],
+            "label": "水郷情致　[第199回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r22",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p22"
+            ],
+            "label": "渡し船　（福州）　[第199回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r23",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p23"
+            ],
+            "label": "朝餉どき　（福州）　[第199回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r24",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p24"
+            ],
+            "label": "洪山橋上　（福州）　[第199回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r25",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p25"
+            ],
+            "label": "万寿橋　（福州）　[第199回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r26",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p26"
+            ],
+            "label": "馬尾近く　（閩江）　[第199回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r27",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p27"
+            ],
+            "label": "◆目次（第200回　江南の水）"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r29",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p29"
+            ],
+            "label": "江南の春　（南京）　[第200回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r30",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p30"
+            ],
+            "label": "浅春　（南京）　[第200回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r31",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p31"
+            ],
+            "label": "玄武湖のほとり　（南京）　[第200回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r32",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p32"
+            ],
+            "label": "春の磯辺　（南京）　[第200回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r33",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p33"
+            ],
+            "label": "中山門外　（南京）　[第200回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r34",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p34"
+            ],
+            "label": "通州遠望　（通州）　[第200回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r35",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p35"
+            ],
+            "label": "金山江天寺　（鎮江）　[第200回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r36",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p36"
+            ],
+            "label": "小金山の春　（楊州）　[第200回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r37",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p37"
+            ],
+            "label": "水の都　（蘇州）　[第200回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r38",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p38"
+            ],
+            "label": "西湖の落暉　（杭州）　[第200回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r39",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p39"
+            ],
+            "label": "◆目次（第201回　湖南風景）"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r41",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p41"
+            ],
+            "label": "洞庭湖　（洞庭湖）　[第201回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r42",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p42"
+            ],
+            "label": "湖畔の漁人　（洞庭湖）　[第201回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r43",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p43"
+            ],
+            "label": "南天門　（南岳）　[第201回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r44",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p44"
+            ],
+            "label": "雲海　（南岳）　[第201回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r45",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p45"
+            ],
+            "label": "岳州を望む　（岳州）　[第201回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r46",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p46"
+            ],
+            "label": "岳麓山より　（長沙）　[第201回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r47",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p47"
+            ],
+            "label": "蔡鍔の墓　（長沙）　[第201回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r48",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p48"
+            ],
+            "label": "屈原の墓　（湘陰）　[第201回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r49",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p49"
+            ],
+            "label": "虞帝二妃之墓　（湘陰）　[第201回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r50",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p50"
+            ],
+            "label": "湘江のほとり　（湘江）　[第201回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r51",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p51"
+            ],
+            "label": "◆目次（第202回　街頭に拾ふ――風俗――）"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r53",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p53"
+            ],
+            "label": "廟の前　[第202回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r54",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p54"
+            ],
+            "label": "曲芸師　[第202回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r55",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p55"
+            ],
+            "label": "高脚踊り　[第202回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r56",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p56"
+            ],
+            "label": "愛禽　[第202回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r57",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p57"
+            ],
+            "label": "午どき　[第202回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r58",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p58"
+            ],
+            "label": "薬売り　[第202回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r59",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p59"
+            ],
+            "label": "街頭の床屋　[第202回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r60",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p60"
+            ],
+            "label": "輪投げ　[第202回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r61",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p61"
+            ],
+            "label": "煙掃屋　[第202回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r62",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p62"
+            ],
+            "label": "巷の飲食店　[第203回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r63",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p63"
+            ],
+            "label": "◆目次（第203回　蒙古旅）"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r65",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p65"
+            ],
+            "label": "夕の丘　（蒙古）　[第203回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r66",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p66"
+            ],
+            "label": "草いきれ　（蒙古）　[第203回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r67",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p67"
+            ],
+            "label": "黎明　（蒙古）　[第203回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r68",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p68"
+            ],
+            "label": "騎馬隊　（蒙古）　[第203回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r69",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p69"
+            ],
+            "label": "悍馬に鞭ち（蒙古）　[第203回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r70",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p70"
+            ],
+            "label": "轍のあと　（蒙古）　[第203回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r71",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p71"
+            ],
+            "label": "馬車を下りて　（蒙古）　[第203回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r72",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p72"
+            ],
+            "label": "鄂博　（蒙古）　[第203回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r73",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p73"
+            ],
+            "label": "草原の喇嘛塔　（蒙古）　[第203回]"
+        },
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/range/r74",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://toyo-bunko.github.io/iiif/atoingashu12/canvas/p74"
+            ],
+            "label": "　[第203回]"
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0001.tif/full/81,/0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0001.tif",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+    },
+    "viewingDirection": "left-to-right"
+}

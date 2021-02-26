@@ -1,0 +1,19 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://toyo-bunko.github.io/iiif/atoinga_004/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "description": "『亜東印画輯』（請求記号：日本語雑誌XI-1）は、大連に拠点を置いた亜東印画協会が1924年から1944年頃まで会員向けに月刊（10枚4セット）で発行していた写真帳。各頁には、生写真と短い解説文が添付されている。 　写真は中国・朝鮮半島・モンゴル地域などにおいて日本人撮影者が当地の風俗や民情、自然風景、歴史的建造物などを撮影したものであり、当時の様子を伝える貴重な資料である。",
+    "label": "亜東印画輯 第4冊",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "sequences": [
+        {
+            "@id": "https://toyo-bunko.github.io/iiif/atoinga_004/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}
