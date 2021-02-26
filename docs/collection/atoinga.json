@@ -8,73 +8,169 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu01/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第1冊"
+            "label": "亜東印画輯 第1冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu01/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu01/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu02/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第2冊"
+            "label": "亜東印画輯 第2冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu02/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu02/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu03/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第3冊"
+            "label": "亜東印画輯 第3冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu03/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu03/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu04/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第4冊"
+            "label": "亜東印画輯 第4冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu04/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu04/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu05/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第5冊"
+            "label": "亜東印画輯 第5冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu05/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu05/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu06/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第6冊"
+            "label": "亜東印画輯 第6冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu06/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu06/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu07/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第7冊"
+            "label": "亜東印画輯 第7冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu07/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu07/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu08/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第8冊"
+            "label": "亜東印画輯 第8冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu08/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu08/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu09/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第9冊"
+            "label": "亜東印画輯 第9冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu09/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu09/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu10/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第10冊"
+            "label": "亜東印画輯 第10冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu10/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu10/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu11/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第11冊"
+            "label": "亜東印画輯 第11冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu11/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu11/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/atoingashu12/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜東印画輯 第12冊"
+            "label": "亜東印画輯 第12冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/atoingashu/atoingashu12/jpeg/0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         }
     ],
     "vhint": "use-thumb"

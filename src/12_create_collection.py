@@ -50,6 +50,9 @@ for i in range(0, c_count):
     if uri == "http://purl.org/dc/terms/title":
         title_index = i
 
+    if uri == "http://purl.org/dc/terms/identifier":
+        id_index = i
+
     if label == "manifest":
         manifest_index = i
 
@@ -69,6 +72,11 @@ for j in range(4, r_count):
 
     if not pd.isnull(df_item.iloc[j, thumbnail_index]):
         m["thumbnail"] = df_item.iloc[j, thumbnail_index]
+    else:
+        path = odir + "/"+df_item.iloc[j, id_index]+"/manifest.json"
+        with open(path) as f:
+            df = json.load(f)
+        m["thumbnail"] = df["thumbnail"]
 
     manifests.append(m)
     

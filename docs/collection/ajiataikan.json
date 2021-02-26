@@ -8,97 +8,225 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan01/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第1冊"
+            "label": "『亜細亜大観』 第1冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan01/1_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan01/1_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan02/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第2冊"
+            "label": "『亜細亜大観』 第2冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan02/2_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan02/2_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan03/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第3冊"
+            "label": "『亜細亜大観』 第3冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan03/3_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan03/3_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan04/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第4冊"
+            "label": "『亜細亜大観』 第4冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan04/4_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan04/4_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan05/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第5冊"
+            "label": "『亜細亜大観』 第5冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan05/5_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan05/5_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan06/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第6冊"
+            "label": "『亜細亜大観』 第6冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan06/6_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan06/6_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan07/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第7冊"
+            "label": "『亜細亜大観』 第7冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan07/7_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan07/7_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan08/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第8冊"
+            "label": "『亜細亜大観』 第8冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan08/8_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan08/8_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan09/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第9冊"
+            "label": "『亜細亜大観』 第9冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan09/9_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan09/9_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan10/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第10冊"
+            "label": "『亜細亜大観』 第10冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan10/10_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan10/10_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan11/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第11冊"
+            "label": "『亜細亜大観』 第11冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan11/11_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan11/11_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan12/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第12冊"
+            "label": "『亜細亜大観』 第12冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan12/12_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan12/12_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan13/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第13冊"
+            "label": "『亜細亜大観』 第13冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan13/13_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan13/13_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan14/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第14冊"
+            "label": "『亜細亜大観』 第14冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan14/14_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan14/14_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan15/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第15冊"
+            "label": "『亜細亜大観』 第15冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan15/15_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan15/15_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan16/manifest.json",
             "@type": "sc:Manifest",
-            "label": "『亜細亜大観』 第16冊"
+            "label": "『亜細亜大観』 第16冊",
+            "thumbnail": {
+                "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan16/16_0001.tif/full/81,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan16/16_0001.tif",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+            }
         }
     ],
     "vhint": "use-thumb"
