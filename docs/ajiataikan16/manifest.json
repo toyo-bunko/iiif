@@ -4356,6 +4356,12 @@
             "viewingHint": "paged"
         }
     ],
+    "service": {
+        "@context": "http://iiif.io/api/search/0/context.json",
+        "@id": "https://w3id.org/dhj/i3sa/https://toyo-bunko.github.io/iiif/files/tei/ajiataikan16/search.xml",
+        "label": "Search within this manifest",
+        "profile": "http://iiif.io/api/search/0/search"
+    },
     "thumbnail": {
         "@id": "http://122.216.204.238/iipsrv/iipsrv.fcgi?IIIF=tbcas/ajiataikan/ajiataikan16/16_0001.tif/full/81,/0/default.jpg",
         "service": {

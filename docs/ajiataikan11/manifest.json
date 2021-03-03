@@ -5196,6 +5196,12 @@
             "viewingHint": "paged"
         }
     ],
+    "service": {
+        "@context": "http://iiif.io/api/search/0/context.json",
+        "@id": "https://w3id.org/dhj/i3sa/https://toyo-bunko.github.io/iiif/files/tei/ajiataikan11/search.xml",
+        "label": "Search within this manifest",
+        "profile": "http://iiif.io/api/search/0/search"
+    },
     "structures": [
         {
             "@id": "https://toyo-bunko.github.io/iiif/ajiataikan11/range/r3",
